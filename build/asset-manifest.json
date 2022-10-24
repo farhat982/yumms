@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yumms/static/css/main.0467558a.css",
+    "main.js": "/yumms/static/js/main.1c3b8eee.js",
+    "index.html": "/yumms/index.html",
+    "main.0467558a.css.map": "/yumms/static/css/main.0467558a.css.map",
+    "main.1c3b8eee.js.map": "/yumms/static/js/main.1c3b8eee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0467558a.css",
+    "static/js/main.1c3b8eee.js"
+  ]
+}
